@@ -43,7 +43,7 @@
                     		<record>
                         		<datafield tag="876" ind1="0" ind2="0">
                            		    <subfield code="h">Use Restrictions</subfield>
-                				<subfield code="j">Item status</subfield>
+                				    <subfield code="j">Item status</subfield>
                         		</datafield>
                     		</record>
                 		</collection>
