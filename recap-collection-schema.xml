@@ -41,23 +41,23 @@
                     <content>
                         <collection xmlns="http://www.loc.gov/MARC21/slim">
                             <record>
-                        		<datafield tag="876" ind1="0" ind2="0">
-                        		    <subfield code="a">Local Item Id</subfield>
-                           		    <subfield code="h">Use Restrictions</subfield>
-                           		    <subfield code="j">Item status</subfield>
-                           		    <subfield code="p">Item Barcode</subfield>
-                           		    <subfield code="t">Copy Number</subfield>
-                           		    <subfield code="3">Volume/Part/Year</subfield>
-                        		</datafield>
+                                <datafield tag="876" ind1="0" ind2="0">
+                                    <subfield code="a">Local Item Id</subfield>
+                                    <subfield code="h">Use Restrictions</subfield>
+                                    <subfield code="j">Item status</subfield>
+                                    <subfield code="p">Item Barcode</subfield>
+                                    <subfield code="t">Copy Number</subfield>
+                                    <subfield code="3">Volume/Part/Year</subfield>
+                                </datafield>
                     		</record>
                     		<record>
-                        		<datafield tag="876" ind1="0" ind2="0">
-                           		    <subfield code="a">Local Item Id</subfield>
-                           		    <subfield code="h">Use Restrictions</subfield>
-                           		    <subfield code="j">Item status</subfield>
-                           		    <subfield code="p">Item Barcode</subfield>
-                           		    <subfield code="t">Copy Number</subfield>
-                           		    <subfield code="3">Volume/Part/Year</subfield>
+                    		    <datafield tag="876" ind1="0" ind2="0">
+                    		        <subfield code="a">Local Item Id</subfield>
+                    		        <subfield code="h">Use Restrictions</subfield>
+                    		        <subfield code="j">Item status</subfield>
+                    		        <subfield code="p">Item Barcode</subfield>
+                    		        <subfield code="t">Copy Number</subfield>
+                    		        <subfield code="3">Volume/Part/Year</subfield>
                         		</datafield>
                     		</record>
                     	</collection>
