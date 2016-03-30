@@ -2,6 +2,7 @@
     <bibRecord>
         <bib>
             <owningInstitutionId>1</owningInstitutionId>
+            <owningInstitutionBibId>1</owningInstitutionBibId>
             <createdDate>1997-06-12 00:00:00.0</createdDate>
             <lastUpdatedDate>2014-07-30 13:26:10.0</lastUpdatedDate>
             <content>
@@ -22,6 +23,7 @@
             <holding>
                 <createdDate>1997-06-12 00:00:00.0</createdDate>
                 <lastUpdatedDate>2014-07-30 13:26:10.0</lastUpdatedDate>
+                 <owningInstitutionHoldingsId>1</owningInstitutionHoldingsId>
                 <content>
                 	<collection xmlns="http://www.loc.gov/MARC21/slim">
                     <record>
